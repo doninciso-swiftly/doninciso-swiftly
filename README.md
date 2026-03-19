@@ -2,7 +2,7 @@
 
 # Hey, I'm Don 👋
 
-**COO & Apple Platform Developer at [@Swiftly-Developed](https://github.com/Swiftly-Developed)**
+**COO & Co-Founder at [@SwiftlyWorkspace](https://github.com/SwiftlyWorkspace)**
 
 Building **Swiftly Workspace** — an AI-native ERP/CRM system for iOS, macOS & tvOS, fully built with SwiftUI.
 
